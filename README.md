@@ -1,3 +1,8 @@
+<h3>My social</h3>
+  <a href="https://br.linkedin.com/in/abraao-borges?trk=people-guest_people_search-card" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff" /></a>
+  <a href="mailto:abraao.borgespimenta@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=flat-square&logoColor=white" /></a>
+  <a href="https://discord.com/users/907592585386815508" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&style=flat-square&logoColor=white" /></a>
+
 <h3>Tools that I use</h3>
 
 <h4>Frontend</h4>
