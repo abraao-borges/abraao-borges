@@ -20,6 +20,7 @@
 <h4>Backend</h4>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&style=flat-square&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
@@ -42,6 +43,7 @@
 <p>
   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&style=flat-square&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=flat-square&logoColor=fff" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-234ea94b?logo=mongodb&style=flat-square&logoColor=fff" />
 </p>
 
 <h4>DevOps & Deployment</h4>
