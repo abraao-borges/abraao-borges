@@ -1,6 +1,6 @@
 <h2 align="center">Abraão Borges Pimenta Azevedo</h2> 
 <p align="center"> <strong>Software Developer and Analyst</strong> </p> 
-<p align="center"> <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" height="80" alt="Linux Tux" /> </p> 
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW12ZmN2eXZlMmM1cGRzZ3l2dDN1ajVmbGJkY2thaDd4ajRlMzdxaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif" height="80" alt="Linux Tux" /> </p> 
 <p align="center">
   <a href="https://br.linkedin.com/in/abraao-borges?trk=people-guest_people_search-card" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff" /></a>
   <a href="mailto:abraao.borgespimenta@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=flat-square&logoColor=white" /></a>
